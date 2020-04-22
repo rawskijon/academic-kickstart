@@ -21,7 +21,6 @@ date_format = "Jan 2006"
   title = "Graduate Assistant"
   company = """
   Center for Neural Circuit Dynamics
-
   SBU Dept of Neurobiology and Behavior
   """
   company_url = ""
@@ -34,5 +33,53 @@ date_format = "Jan 2006"
   company_url = ""
   date_start = "2017-09-01"
   date_end = ""
+
+  [[experience]]
+    title = "Research Assistant"
+    company = "Stony Brook Computational Linguistics Lab"
+    company_url = ""
+    date_start = "2018-06-01"
+    date_end = "2018-09-01"
+
+    [[experience]]
+      title = "Graduate Assistant"
+      company = """
+      Theoretical Neuroscience Group
+      Higher School of Economics
+      """
+      company_url = ""
+      date_start = "2015-09-01"
+      date_end = "2016-07-01"
+
+      [[experience]]
+        title = "Research Assistant"
+        company = """
+        Neurolinguistics Laboratory
+        Higher School of Economics
+        """
+        company_url = ""
+        date_start = "2015-01-01"
+        date_end = "2015-05-01"
+
+        [[experience]]
+          title = "Undergraduate Researcher"
+          company = """
+          Dept. of Speech-Language-Hearing Sciences
+          University of Minnesota
+          """
+          company_url = ""
+          date_start = "2013-01-01"
+          date_end = "2013-08-31"
+
+          [[experience]]
+            title = "Student Manager, Research Assistant"
+            company = """
+            NuMI Off-Axis Electron Neutrino Appearance (NOvA) Laboratory
+            Dept of Physics
+            University of Minnesota
+            """
+            company_url = ""
+            date_start = "2012-06-01"
+            date_end = "2013-08-31"
 
 +++
