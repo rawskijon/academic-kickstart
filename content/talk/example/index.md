@@ -6,10 +6,10 @@ event_url: ""
 location: Dept. of Mathematics and Statistics, Concordia University
 address:
   street: ""
-  city: "Montreal"
-  region: "Quebec"
+  city: Montreal
+  region: Quebec
   postcode: ''
-  country: "Canada"
+  country: Canada
 
 summary: I analyze the functional expressivity of sequential neural machine learning using tensor algebra and simulations on formal languages.
 abstract: "All learning systems have biases that constrain the space of functions they can generalize. Supervised learning of sequential data recently uses recurrent neural networks (RNN) and automatic differentiation to approximate the underlying functions. This has yielded engineering success, but infamously opaque biases. I'll use formal language theory, tensors, and multilinear algebra to connect RNN computation and generalization to the Regular class of languages and finite-state automata, one of the most well-understood objects in theoretical computer science and discrete mathematics. I'll also show some empirical work connecting sequence-to-sequence networks to regular functions using natural language copying functions. If there is time, I will show how to generalize these conditions to arbitrary structures like trees and graphs using finite model theory and semigroup theory."
