@@ -20,9 +20,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Assistant"
   company = """
-  Center for Neural Circuit Dynamics
-
-  SBU Dept of Neurobiology and Behavior
+  Center for Neural Circuit Dynamics,
+  Stony Brook Dept of Neurobiology and Behavior
   """
   company_url = ""
   date_start = "2019-01-01"
