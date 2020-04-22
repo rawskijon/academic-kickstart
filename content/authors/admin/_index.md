@@ -14,12 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Linguistics Department
-  url: ""
-- name: Institute for Advanced Computational Science
-    url: ""
 - name: Stony Brook University
-        url: ""
+  url: ""
 
 
 # Short bio (displayed in user profile at end of posts)
