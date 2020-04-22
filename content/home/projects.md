@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "publication"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Neural Networks"
-    tag = "Neural Networks"
+    name = "Source Themes"
+    tag = "Source Themes"
 
   [[content.filter_button]]
     name = "Computational Phonology"
