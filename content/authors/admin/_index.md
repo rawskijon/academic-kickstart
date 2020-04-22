@@ -71,6 +71,6 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD student in the Linguistics Department at Stony Brook University, advised by Jeffrey Heinz. I also work in the SBU Center for Neural Circuit Dynamics, and am a Research Fellow at the Institute for Advanced Computational Science.
+I am a PhD student in the Linguistics Department at Stony Brook University, advised by <a href="http://jeffreyheinz.net/">Jeffrey Heinz</a>. I am also a Graduate Assistant in the <a href="https://www.stonybrook.edu/cncd/">Center for Neural Circuit Dynamics</a>, and a Research Fellow at the <a href="https://iacs.stonybrook.edu/"Institute for Advanced Computational Science</a>.
 
 My work concerns the mathematics of human language and learnability. These cognitive feats emerge from humans' unique neural structure and computing power, allowing linguistic insight to contribute to the broader science of computational learning theory and artificial intelligence. I frequently use tensor algebra, formal language theory, grammatical inference, machine learning, and mathematical logic to clarify the nature of the human mental capacity of phonology.
