@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Source Themes"
-    tag = "Source Themes"
+    name = "Sign Language"
+    tag = "sign language"
 
   [[content.filter_button]]
     name = "Computational Phonology"
-    tag = "Computational Phonology"
+    tag = "computational phonology"
 
   [[content.filter_button]]
-      name = "Learning Algorithms"
-      tag = "Learning Algorithms"
+      name = "learning algorithms"
+      tag = "learning algorithms"
 
       [[content.filter_button]]
         name = "Other"
