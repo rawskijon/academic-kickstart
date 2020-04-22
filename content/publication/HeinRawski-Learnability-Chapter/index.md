@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: HR-2020-Learnability.pdf
+url_pdf: HeinzRawski-Learnability-Chapter.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
