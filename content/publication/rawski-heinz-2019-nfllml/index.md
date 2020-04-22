@@ -3,7 +3,7 @@ title: "No Free Lunch in Linguistics or Machine Learning: Reply to Pater"
 authors:
 - admin
 - Jeffrey Heinz
-date: "2020-03-01T00:00:00Z"
+date: "2019-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
