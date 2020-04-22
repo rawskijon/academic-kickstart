@@ -1,11 +1,10 @@
 ---
-title: "Phonological Abstractness in the Mental Lexicon"
+title: "History of Phonology: Learnability"
 authors:
-- Eric Bakovic
 - Jeffrey Heinz
 - admin
 
-date: "2020-03-26T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,21 +17,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the *Oxford Handbook of the Mental Lexicon*, ed. Lila Gleitman, Anna Papafragou, and John Trueswell. Oxford University Press
-publication_short: In the *Oxford Handbook of the Mental Lexicon*
+publication: In the *Oxford Handbook of the History of Phonology*, ed.  Elan Dresher and Harry van der Hulst, chapter 32. Oxford University Presss
+publication_short: In the *Oxford Handbook of the History of Phonology*
 
-abstract:
+abstract: This chapter examines the brief but vibrant history of learnability in phonology. We trace the question of learnability back to the foundational crises in mathematics and computer science, through the synthesis of these fields with linguistics, and onward to the foundational problems of language, and phonological, learning. We observe this history is mostly one-sided, with many ideas from learning imported to phonology, but rarely the converse. We finish by discussing several overarching tensions pervading this field, signaling rapid change and many flowering prospects.
 
 # Summary. An optional shortened abstract.
-summary: We overview the notion of phonological abstractness, various types of evidence for it,  and consequences for linguistics and psychology.
+summary:  This chapter examines the brief but vibrant history of learnability in phonology.
 
 tags:
 - computational phonology
-- sign language
+- learning algorithms
 featured: true
 
 links:
-url_pdf: BHR-202x-PAML.pdf
+url_pdf: HR-2020-Learnability.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
