@@ -3,7 +3,7 @@ title: Overcoming Poverty of Stimulus with Structure and Parameters
 event: Workshop on Theoretical Phonology (WTPh)
 event_url: "https://sites.google.com/view/wtph"
 
-location: Online
+location: Workshop on Theoretical Phonology (WTPh)
 address:
   street: ""
   city: ""
