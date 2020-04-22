@@ -34,12 +34,12 @@ subtitle = ""
     tag = "computational phonology"
 
   [[content.filter_button]]
-      name = "learning algorithms"
+      name = "Learning Algorithms"
       tag = "learning algorithms"
 
       [[content.filter_button]]
         name = "Other"
-        tag = "Other"
+        tag = "other"
 
 
 [design]

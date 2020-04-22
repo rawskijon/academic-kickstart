@@ -31,7 +31,9 @@ tags:
 featured: true
 
 links:
-url_pdf: HeinzRawski-Learnability-Chapter.pdf
+- name: "Draft PDF"
+  url: "HeinzRawski-Learnability-Chapter.pdf"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
