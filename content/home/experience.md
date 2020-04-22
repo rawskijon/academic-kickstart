@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 
           [[experience]]
             title = "Student Manager, Research Assistant"
-            company = """NuMI Off-Axis Electron Neutrino Appearance (NOvA) Laboratory, UMN Physics Dept."
+            company = """NuMI Off-Axis Electron Neutrino Appearance (NOvA) Laboratory, UMN Physics Dept."""
             company_url = "https://novaexperiment.fnal.gov/"
             date_start = "2012-06-01"
             date_end = "2013-08-31"
