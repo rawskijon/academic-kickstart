@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-url_pdf: BHR-202x-PAML.pdf
+url_pdf: BHR-2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

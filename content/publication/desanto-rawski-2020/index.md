@@ -1,5 +1,5 @@
 ---
-title: "What Can Formal language theory Do for Animal Cognition Studies?"
+title: "What can formal language theory do for animal cognition studies?"
 authors:
 - Aniello De Santo
 - admin
@@ -60,5 +60,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
