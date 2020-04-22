@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in computational/mathematical linguistics, working at the interface of linguistics, cognitive science, and algorithmic learning theory.
 
-interests:
+research areas:
 - Artificial Intelligence
 - Computational/Mathematical Linguistics
 - Cognitive Science
