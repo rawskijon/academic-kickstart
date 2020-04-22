@@ -71,4 +71,6 @@ email: ""
 #- Visitors
 ---
 
-My work concerns the mathematics of human language and learning. Humans intuitively pattern meaningless symbolic elements into meaningful units when comprehending, producing, and learning language. The rules and structures governing this patterning - phonology - act as a cognitive filter for the underlying structure of language as it is transformed into external action, whether through speech, sign, or tactile language. How brains perform this feat is a matter of their unique structure and computing power, allowing phonological insight to contribute to the broader science of computational learning theory and artifical intelligence. I draw on tensor algebra, formal language theory, grammatical inference, machine learning, and mathematical logic to clarify the nature of the human mental capacity of phonology.
+I am a PhD student in the Linguistics Department at Stony Brook University, advised by Jeffrey Heinz. I also work in the SBU Center for Neural Circuit Dynamics, and am a Research Fellow at the Institute for Advanced Computational Science.
+
+My work concerns the mathematics of human language and learnability. These cognitive feats emerge from humans' unique neural structure and computing power, allowing linguistic insight to contribute to the broader science of computational learning theory and artificial intelligence. I frequently use tensor algebra, formal language theory, grammatical inference, machine learning, and mathematical logic to clarify the nature of the human mental capacity of phonology.
