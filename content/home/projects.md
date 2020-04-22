@@ -37,10 +37,6 @@ subtitle = ""
       name = "Learning Algorithms"
       tag = "Learning Algorithms"
 
-  [[content.filter_button]]
-    name = "Neural Networks"
-    tag = "Neural Networks"
-
       [[content.filter_button]]
         name = "Other"
         tag = "Other"
