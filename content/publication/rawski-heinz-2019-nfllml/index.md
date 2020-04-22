@@ -30,8 +30,8 @@ tags:
 featured: false
 
 # links:
- - name: Official Pub
-   url: "https://muse.jhu.edu/article/718443"
+- name: Official Pub
+  url: "https://muse.jhu.edu/article/718443"
 url_pdf: ""
 url_code: ''
 url_dataset: ''

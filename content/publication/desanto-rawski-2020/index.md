@@ -30,7 +30,7 @@ tags:
 featured: false
 
 # links:
- - name: Official Pub
+- name: Official Pub
   url: "https://royalsocietypublishing.org/doi/10.1098/rsos.191772"
 url_pdf: ''
 url_code: ''
