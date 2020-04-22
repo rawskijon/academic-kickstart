@@ -1,10 +1,9 @@
 ---
-title: "History of Phonology: Learnability"
+title: "No Free Lunch in Linguistics or Machine Learning: Reply to Pater"
 authors:
-- Jeffrey Heinz
 - admin
-
-date: "2019-08-01T00:00:00Z"
+- Jeffrey Heinz
+date: "2020-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,24 +13,26 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the *Oxford Handbook of the History of Phonology*, ed.  Elan Dresher and Harry van der Hulst, chapter 32. Oxford University Presss
-publication_short: In the *Oxford Handbook of the History of Phonology*
+publication: "*Language, 95*(1)"
+publication_short: ""
 
-abstract: This chapter examines the brief but vibrant history of learnability in phonology. We trace the question of learnability back to the foundational crises in mathematics and computer science, through the synthesis of these fields with linguistics, and onward to the foundational problems of language, and phonological, learning. We observe this history is mostly one-sided, with many ideas from learning imported to phonology, but rarely the converse. We finish by discussing several overarching tensions pervading this field, signaling rapid change and many flowering prospects.
+abstract:
 
 # Summary. An optional shortened abstract.
-summary:  This chapter examines the brief but vibrant history of learnability in phonology.
+summary: We comment on mathematical fallacies present in artificial grammar learning experiments and suggest how to integrate psycholinguistic and mathematical results.
 
 tags:
-- computational phonology
 - learning algorithms
-featured: true
+- other
+featured: false
 
-links:
-url_pdf: ''
+# links:
+ - name: "Official Pub"
+   url: "https://muse.jhu.edu/article/718443"
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,7 +54,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
