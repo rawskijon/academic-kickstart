@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Learning with Partially Ordered Representations"
 authors:
 - Jane Chandlee
 - Remi Eyraud
