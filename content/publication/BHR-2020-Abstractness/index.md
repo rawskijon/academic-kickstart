@@ -32,7 +32,9 @@ tags:
 featured: true
 
 links:
-url_pdf: 'BHR-2020.pdf' 
+- name: "Draft PDF"
+  url: "BHR-2020-Abstractness.pdf"
+url_pdf: 'BHR-2020-Abstractness.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

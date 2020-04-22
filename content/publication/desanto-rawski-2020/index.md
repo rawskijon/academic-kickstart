@@ -25,7 +25,7 @@ abstract:
 summary: We comment on mathematical fallacies present in artificial grammar learning experiments and suggest how to integrate psycholinguistic and mathematical results.
 
 tags:
-- computational phonology
+- learning algorithms
 - other
 featured: false
 
