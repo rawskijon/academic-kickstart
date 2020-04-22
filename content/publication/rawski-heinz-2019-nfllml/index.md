@@ -29,7 +29,7 @@ tags:
 - other
 featured: false
 
-# links:
+links:
 - name: Official Pub
   url: "https://muse.jhu.edu/article/718443"
 url_pdf: ""
