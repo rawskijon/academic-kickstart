@@ -1,5 +1,5 @@
 ---
-title: What Can Formal languages Tell Us About Cognition?
+title: What Can Formal Languages Tell Us About Cognition?
 event: Invited Talk
 event_url: ""
 
