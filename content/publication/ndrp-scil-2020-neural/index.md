@@ -26,7 +26,7 @@ publication_short: In *Proceedings of SCiL*
 abstract: This paper examines the generalization abilities of encoder-decoder networks on a class of subregular functions characteristic of natural language reduplication. We find that, for the simulations we run, attention is a necessary and sufficient mechanism for learning generalizable reduplication. We examine attention alignment to connect RNN computation to a class of 2-way transducers.
 
 # Summary. An optional shortened abstract.
-summary: We analyze the expressivity of a variety of recurrent encoder-decoder networks, showing they are limited to learning subsequential functions, and connecting an RNNs with attention mechanisms to a class of deterministic 2-way transducers.  
+summary: We analyze the expressivity of a variety of recurrent encoder-decoder networks, showing they are limited to learning subsequential functions, and connecting RNNs with attention mechanisms to a class of deterministic 2-way transducers.  
 
 tags:
 - computational phonology
