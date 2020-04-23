@@ -29,7 +29,7 @@ dimensions of representation and inference strategy.
 
 tags:
 - computational phonology
-- sign language
+- learning algorithms
 featured: true
 
 links:
