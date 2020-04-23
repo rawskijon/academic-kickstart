@@ -1,5 +1,5 @@
 ---
-title: "The Logical nature of Phonology Across Speech and Sign"
+title: "The Logical Nature of Phonology Across Speech and Sign"
 authors:
 - admin
 
@@ -33,7 +33,7 @@ links:
 - name: Review Draft
   url: "LNPSS_review_draft.pdf"
 - name: Invited Talk Slides
-  url: "rawski-LNPSS.pdf"
+  url: "LNPSS-invited.pdf"
 - name: Learning Slides
   url: "learningslides.pdf"
 url_pdf: ''
