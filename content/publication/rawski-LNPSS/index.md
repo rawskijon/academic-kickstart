@@ -22,7 +22,7 @@ publication_short: In Review
 abstract: This article examines whether the computational properties of phonology hold across spoken and signed languages. Model-theoretic representations of spoken and signed words, as well as logical mappings over these structures, are introduced as a powerful framework for structural and computational comparisons. Several phonological processes in sign are shown to require the same logical complexity as their spoken counterparts, suggesting an amodal sensitivity to notions of locality and memory, as well as a computational tradeoff between sequentiality and simultaneity in specific modalities. These analyses provide a necessary and sufficient condition for amodal aspects of phonology, and allow for promising new means to analyze issues of linguistic modality and the cognitive status of phonological knowledge.
 
 # Summary. An optional shortened abstract.
-summary: I use model theory and logical transductions to compare phonological processes across speech and sign, finding that Strict Locality is a salient cross-modal condition for phonological computation over modality-specific representations.
+summary: This article examines whether the computational properties of phonology hold across spoken and signed languages, using model theory and logical transductions.
 
 tags:
 - computational phonology
