@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[See my CV]({{< ref "files/cv.pdf" >}}) for a list of all my talks.
+[See my CV]({{< ref "/files/cv.pdf" >}}) for a list of all my talks.
 {{% /alert %}}
