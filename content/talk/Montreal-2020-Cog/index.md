@@ -17,7 +17,7 @@ abstract: "This talk discusses the scope and limits of linguistic generalization
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-02-06T16:00:00Z"
-date_end: "2020-06-01T18:00:00Z"
+#date_end: "2020-06-01T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
