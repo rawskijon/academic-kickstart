@@ -27,10 +27,11 @@ abstract: We derive well-understood and well-studied Subregular classes of forma
 summary: We derive well-understood and well-studied subregular classes of formal languages purely from the computational perspective of algorithmic learning problems. We parameterise the learning problem along
 dimensions of representation and inference strategy.
 
-tags:
-- computational phonology
-- learning algorithms
-featured: true
+#tags:
+#- computational phonology
+#- learning algorithms
+#featured: true
+
 links:
 - name: Review Draft
   url: "LRH-2020-draft.pdf"
