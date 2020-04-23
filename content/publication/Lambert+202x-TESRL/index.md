@@ -31,7 +31,6 @@ tags:
 - computational phonology
 - learning algorithms
 featured: true
-
 links:
 - name: Review Draft
   url: "LRH-2020-draft.pdf"
