@@ -23,7 +23,7 @@ publication_short: In *SCiL 2020*
 abstract: This paper presents an automata-theoretic characterization of the typology of attested tonal patterns using enriched data structures. We generalize the Input Strictly Local class of functions to consider multiple inputs of tonal and segmental strings, and find that the associated strictly local multi-tape transducers successfully capture tonal typology. Links between automata-theoretic and logical characterizations of phonological expressivity showcase tradeoffs in data structure and locality in the expressivity of phonological computation.
 
 # Summary. An optional shortened abstract.
-summary: We provide an automata-theoretic characterization of phonology, extending strict locality to consider n-ary functions.
+summary: We provide an automata-theoretic characterization of tonal phonology, extending strict locality to consider n-ary functions.
 
 tags:
 - computational phonology
