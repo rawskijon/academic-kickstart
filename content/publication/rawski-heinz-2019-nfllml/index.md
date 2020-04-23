@@ -22,7 +22,7 @@ publication_short: ""
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: We comment on mathematical fallacies present in artificial grammar learning experiments and suggest how to integrate psycholinguistic and mathematical results.
+summary: We caution about confusing ignorance of biases with absence of biases in machine learning and linguistics, especially for neural networks.
 
 tags:
 - learning algorithms
