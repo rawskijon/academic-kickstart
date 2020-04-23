@@ -32,7 +32,7 @@ education:
     institution: Stony Brook University
     year: 2021 (expected)
   - course: MSci in Cognitive Science
-    institution: Higher School of Ecomomics
+    institution: Higher School of Economics
     year: 2016
   - course: BA in Linguistics
     institution: University of Minnesota
