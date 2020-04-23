@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[See my CV]({{< ref "https://www.jrawski.info/files/cv.pdf" >}}) for a list of all my talks.
+[See my CV]({{<a href="https://www.jrawski.info/files/cv.pdf">See my CV</a>}}) for a list of all my talks.
 {{% /alert %}}
