@@ -68,3 +68,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+[See my CV]({{< ref "files/cv.pdf" >}}) for a list of all my talks.
+{{% /alert %}}

@@ -26,7 +26,6 @@ summary: We caution about confusing ignorance of biases with absence of biases i
 
 tags:
 - learning algorithms
-- other
 featured: false
 
 links:

@@ -1,5 +1,5 @@
 ---
-title: "Quantified Sentences as a Window into Prediction and Priming: An ERP Study."
+title: "Quantified Sentences as a Window into Prediction and Priming: An ERP Study"
 authors:
 - Aniello De DeSanto
 - admin
