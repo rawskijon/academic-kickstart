@@ -24,11 +24,12 @@ publication_short: In Review
 abstract: We derive well-understood and well-studied Subregular classes of formal languages purely from the computational perspective of algorithmic learning problems.  We parameterise the learning problem along dimensions of representation and inference strategy. Of special interest are those classes of languages whose learning algorithms are necessarily not prohibitively expensive in space and time, since learners are often exposed to adverse conditions and sparse data. Learned natural language patterns are expected to be most like the patterns in these classes, an expectation supported by previous typological and linguistic research in phonology. A second result is that the learning algorithms presented here are completely agnostic to choice of linguistic representation. In the case of the Subregular classes, the results fall out from traditional model-theoretic treatments of words and strings. The same learning algorithms, however, can be applied to model-theoretic treatments of other linguistic representations such as syntactic trees or autosegmental graphs, which opens a useful direction for future research.
 
 # Summary. An optional shortened abstract.
-summary: We derive well-understood and well-studied subregular classes of formal languages purely from the computational perspective of algorithmic learning problems. 
-#tags:
-#- computational phonology
-#- learning algorithms
-#featured: true
+summary: We derive well-understood and well-studied subregular classes of formal languages purely from the computational perspective of algorithmic learning problems.
+
+tags:
+- computational phonology
+- learning algorithms
+featured: true
 
 links:
 - name: Review Draft
