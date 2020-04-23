@@ -32,12 +32,16 @@ featured: true
 links:
 - name: Review Draft
   url: "LNPSS_review_draft.pdf"
+- name: Invited Talk Slides
+  url: "rawski-LNPSS.pdf"
+- name: Learning Slides
+  url: "learningslides.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides:
 url_source: ''
 url_video: ''
 
