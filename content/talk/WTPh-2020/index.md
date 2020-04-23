@@ -1,5 +1,9 @@
 ---
 title: Overcoming Poverty of Stimulus with Structure and Parameters
+authors:
+- Dakotah Lambert
+- admin
+- Jeffrey Heinz
 event: Workshop on Theoretical Phonology (WTPh)
 event_url: "https://sites.google.com/view/wtph"
 
