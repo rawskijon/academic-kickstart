@@ -39,7 +39,7 @@ links:
 url_pdf: https://www.aclweb.org/anthology/W19-5708.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: poster.pdf
 url_project: ''
 url_slides: slides.pdf
 url_source: ''
