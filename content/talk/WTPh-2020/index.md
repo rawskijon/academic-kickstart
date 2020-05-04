@@ -41,7 +41,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-url: https://sites.google.com/view/wtph
+url: sites.google.com/view/wtph
 url_code: ""
 url_pdf: ""
 url_slides: "slides.pdf"
