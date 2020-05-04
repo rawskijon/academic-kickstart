@@ -44,7 +44,7 @@ links:
 #url: https://sites.google.com/view/wtph
 url_code: ""
 url_pdf: ""
-url_slides: slides.pdf
+url_slides: "wtphslides.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
