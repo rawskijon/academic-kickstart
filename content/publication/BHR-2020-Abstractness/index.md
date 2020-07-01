@@ -32,6 +32,8 @@ tags:
 featured: true
 
 links:
+- name: Review Draft
+  url: "BHR-2020-Abstractness.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
