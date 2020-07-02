@@ -29,7 +29,7 @@ summary: We overview vowel harmony computationally, describing necessary and suf
 
 tags:
 - computational phonology
-- sign language
+- learning algorithms
 featured: true
 
 links:
