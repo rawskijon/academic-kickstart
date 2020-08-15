@@ -21,7 +21,7 @@ date: "2020-09-19T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-08-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -29,7 +29,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: ""
+image: false
 
 links:
 #- icon: twitter
