@@ -1,7 +1,12 @@
 ---
 title: Computational Restrictions on Iterative Prosodic Processes
-event: Annual meeting on Phonology
-event_url: ""
+authors:
+- Hossep Dolatian
+- Nate Koser
+- admin
+- Kristina Strother-Garcia
+event: Annual Meeting on Phonology
+event_url: "https://babel.ucsc.edu/~amp2020/"
 
 location: Online
 address:
@@ -21,7 +26,7 @@ date: "2020-09-19T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -29,7 +34,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: false
+image:
+  caption: ''
+  focal_point: Right
 
 links:
 #- icon: twitter
@@ -38,7 +45,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "poster.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
