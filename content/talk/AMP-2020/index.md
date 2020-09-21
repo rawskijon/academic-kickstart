@@ -44,7 +44,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "poster.pdf"
+url_pdf: "ampposter.pdf"
 url_slides: ""
 url_video: ""
 
