@@ -37,7 +37,7 @@ links:
 - name: Official Pub
   url: https://scholarworks.umass.edu/scil/vol3/iss1/5/
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/MaxAndrewNelson/Neural-Reduplication'
 url_dataset: ''
 url_poster: ''
 url_project: ''
