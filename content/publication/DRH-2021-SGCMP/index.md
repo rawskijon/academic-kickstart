@@ -32,7 +32,7 @@ featured: true
 
 links:
 - name: PDF
-  url: "DRH-2021-SGCMP-preprint"
+  url: "DRH-2021-SGCMP-preprint.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

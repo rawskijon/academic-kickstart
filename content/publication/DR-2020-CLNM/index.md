@@ -31,7 +31,7 @@ featured: true
 
 links:
 - name: Review Draft
-  url: "DR-2020-CLNM-review"
+  url: "DR-2020-CLNM-review.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
