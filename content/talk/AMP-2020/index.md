@@ -43,8 +43,10 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
+- name: Poster
+  url: "ampposter.pdf"
 url_code: ""
-url_pdf: "ampposter.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
