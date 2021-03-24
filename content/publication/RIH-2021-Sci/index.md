@@ -1,6 +1,6 @@
 ---
-title: "Comment on 'Nonadjacent Dependency Processing in Monkeys, Apes, and
-Humans'"
+title: "Comment on Nonadjacent Dependency Processing in Monkeys, Apes, and
+Humans"
 authors:
 - admin
 - William Idsardi
