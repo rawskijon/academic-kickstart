@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances"
+publication: "Science Advances"
 publication_short: ""
 
 abstract:
