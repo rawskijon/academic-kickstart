@@ -19,7 +19,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student working at the interface of mathematics, linguistics, cognitive science, and algorithmic learning theory.
+bio: I am a researcher working at the interface of mathematics, linguistics, cognitive science, and algorithmic learning theory.
 
 interests:
 - Computational/Mathematical Linguistics
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Linguistics
     institution: Stony Brook University
-    year: 2021 (expected)
+    year: 2021 
   - course: MSci in Cognitive Science
     institution: Higher School of Economics
     year: 2016
@@ -71,6 +71,6 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate in the <a href="https://linguistics.stonybrook.edu/">Linguistics Department</a> at Stony Brook University, advised by <a href="http://jeffreyheinz.net/">Jeffrey Heinz</a>. I am also a Graduate Assistant in the <a href="https://www.stonybrook.edu/cncd/">Center for Neural Circuit Dynamics</a>, and a Junior Research Fellow at the <a href="https://iacs.stonybrook.edu/">Institute for Advanced Computational Science</a>.
+I am a PhD candidate in the <a href="https://linguistics.stonybrook.edu/">Linguistics Department</a> at Stony Brook University, advised by <a href="http://jeffreyheinz.net/">Jeffrey Heinz</a>. I am also a Graduate Assistant in the <a href="https://www.stonybrook.edu/cncd/">Center for Neural Circuit Dynamics</a>, and a Junior Research Fellow at the <a href="https://iacs.stonybrook.edu/">Institute for Advanced Computational Science</a>. Starting Fall 2020 I will be an Assistant Professor of Linguistics at San Jose State University. 
 
 My work concerns the mathematics of human language and learning. These cognitive feats emerge from humans' unique neuronal structure and computing power, allowing linguistic insight to contribute to the broader cognitive sciences and artificial intelligence. I frequently use tensor algebra, formal language theory, grammatical inference, differentiable machine learning, and finite model theory to clarify the nature of the human mental capacity of language.
