@@ -40,6 +40,8 @@ links:
   url: "Fig3.png"
 - name: Figure 4
   url: "Fig4.png"
+- name: Figure 5
+  url: "Fig5.png"
 url_pdf: ""
 url_code: ''
 url_dataset: ''
