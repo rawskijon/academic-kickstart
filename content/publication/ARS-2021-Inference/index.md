@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-#- name: Official Pub
-#  url: "https://muse.jhu.edu/article/718443"
+- name: Official Pub
+  url: "https://inference-review.com/letter/talk-isnt-so-cheap"
 - name: Figure 1
   url: "Fig1.png"
 - name: Figure 2
