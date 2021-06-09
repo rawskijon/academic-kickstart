@@ -5,7 +5,7 @@ authors:
 event: Invited talk, ACL SIGTYP Lecture Series
 event_url: "https://www.youtube.com/playlist?list=PLFIGad0NI4osFSf2cE_FCPZQ88CqCZGvm"
 
-location: Online
+location: Invited talk, ACL SIGTYP Lecture Series
 address:
   street: ""
   city: ""
