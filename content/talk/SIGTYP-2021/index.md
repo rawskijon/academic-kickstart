@@ -1,5 +1,5 @@
 ---
-title: Computability Emerges from Typology
+title: Typology Emerges from Computability
 authors:
 - admin
 event: Invited talk, ACL SIGTYP Lecture Series
