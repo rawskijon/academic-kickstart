@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stony Brook University
+- name: San Jose State University
   url: ""
 
 
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jonathan.rawski@stonybrook.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jon.rawski@sjsu.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
