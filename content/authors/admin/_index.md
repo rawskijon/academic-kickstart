@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-I am an Assistant Professor of Linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>, where I teach courses on general and computational linguistics. My work generally concerns the mathematics of human language and learning. These cognitive feats emerge from humans' unique neuronal structure and computing power, allowing linguistic insight to contribute to the broader cognitive sciences and artificial intelligence. I frequently use tensor algebra, formal language theory, grammatical inference, differentiable machine learning, and finite model theory to clarify the nature of the human mental capacity of language. 
+I am an Assistant Professor of Linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>, where I teach courses on general and computational linguistics. My work generally concerns the mathematics of human language and learning. These cognitive feats emerge from humans' unique neuronal structure and computing power, allowing linguistic insight to contribute to the broader cognitive sciences and artificial intelligence. 
