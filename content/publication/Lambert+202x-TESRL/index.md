@@ -34,7 +34,7 @@ featured: true
 links:
 - name: Official Pub
   url: "https://jlm.ipipan.waw.pl/index.php/JLM/article/view/262"
-url_pdf: 'LRH_final'
+url_pdf: 'LRH_final.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
