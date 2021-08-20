@@ -5,7 +5,7 @@ authors:
 - admin
 - Jeffrey Heinz
 
-date: "2021-04-23T00:00:00Z"
+date: "2021-08-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,9 +32,9 @@ tags:
 featured: true
 
 links:
-- name: Preprint
-  url: "LRH-2020-draft.pdf"
-url_pdf: ''
+- name: Official Pub
+  url: "https://jlm.ipipan.waw.pl/index.php/JLM/article/view/262"
+url_pdf: 'LRH_final'
 url_code: ''
 url_dataset: ''
 url_poster: ''
