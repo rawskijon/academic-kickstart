@@ -34,7 +34,7 @@ featured: true
 links:
 - name: Official Pub
   url: "https://jlm.ipipan.waw.pl/index.php/JLM/article/view/262"
-url_pdf: 'LRHfinal.pdf'
+url_pdf: 'Lambert+202x-TESRL.pdf' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
