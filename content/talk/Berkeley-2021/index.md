@@ -1,5 +1,5 @@
 ---
-title: Abductive Inference of Phonotactic Constraints
+title: Abductive Learning of Phonotactic Constraints
 authors:
 - admin
 event: Invited talk, UC Berkeley Phorum
@@ -14,7 +14,7 @@ address:
   country: ''
 
 summary: I describe general properties of phonotactic learning via a series of non-statistical abductive inference algorithms   
-abstract: I describe general properties of phonotactic learning via a series of non-statistical abductive inference algorithms
+abstract: Inductive learning of phonotactic knowledge from data often relies on statistical heuristics to select plausible phonotactic constraints, such as in the popular Maximum Entropy learners (Hayes & Wilson 2008). Wilson & Gallagher (2018) claim that such statistical heuristics are necessary, given that feature-based constraints allow for exponentially large hypothesis spaces. I show that such statistical heuristics are unnecessary, by providing a series of non-statistical algorithms which use abduction to select the most general feature-based constraint grammars for both local and long-distance phonotactics. I compare these algorithms to MaxEnt grammars to showcase their similar behavior on synthetic and natural phonotactic data. Like any algorithms, these help us clarify general properties of phonotactic learning. 1) the space of possible constraints possesses significant structure (a partial order) that learners can easily exploit, 2) even given this structure, there are multiple pairwise incomparable grammars which are surface-true, and 3) particular constraint selection is due to the particular abductive (not inductive) principles learners possess which guide the search, regardless of whether such principles are statistically formulated or not.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
