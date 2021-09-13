@@ -1,30 +1,29 @@
 ---
-title: What Does "Simplicity" Mean in Grammar Learning?
+title: Abductive Inference of Phonotactic Constraints
 authors:
 - admin
-- Jeffrey Heinz
-event: NorthEast Computational Phonology Workshop (NECPhon)
+event: Invited talk, UC Berkeley Phorum
 event_url: ""
 
-location: NorthEast Computational Phonology Workshop (NECPhon)
+location: Invited talk, ACL SIGTYP Lecture Series
 address:
   street: ""
   city: ""
   region: ""
   postcode: ''
-  country: ""
+  country: ''
 
-summary: We describe incompatibilities between different conceptions of simplicity metrics in grammar learning.
-abstract: ""
+summary: I describe the abductive nature of phonotactic learning via a series of non-statistical algorithms   
+abstract: I describe the abductive nature of phonotactic learning via a series of non-statistical algorithms
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-23T14:00:00Z"
-#date_end: ""
+date: "2021-09-17T12:00:00Z"
+#date_end: "2020-06-01T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-03T00:00:00Z"
 
 authors: []
 tags: []
@@ -40,10 +39,12 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#url: https://sites.google.com/view/wtph
+#  url: https://twitter.com/georgecushen
+# name: Poster
+#  url: "ampposter.pdf"
 url_code: ""
 url_pdf: ""
-url_slides: "necphon2020.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
