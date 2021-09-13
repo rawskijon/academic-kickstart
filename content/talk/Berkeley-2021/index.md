@@ -5,7 +5,7 @@ authors:
 event: Invited talk, UC Berkeley Phorum
 event_url: ""
 
-location: Invited talk, ACL SIGTYP Lecture Series
+location: Invited talk, UC Berkeley Phorum
 address:
   street: ""
   city: ""
@@ -13,8 +13,8 @@ address:
   postcode: ''
   country: ''
 
-summary: I describe the abductive nature of phonotactic learning via a series of non-statistical algorithms   
-abstract: I describe the abductive nature of phonotactic learning via a series of non-statistical algorithms
+summary: I describe general properties of phonotactic learning via a series of non-statistical abductive inference algorithms   
+abstract: I describe general properties of phonotactic learning via a series of non-statistical abductive inference algorithms
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
