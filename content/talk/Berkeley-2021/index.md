@@ -44,7 +44,7 @@ links:
 #  url: "ampposter.pdf"
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "berkeley-2021.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
