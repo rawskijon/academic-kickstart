@@ -18,25 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "San Jose State Linguistics Dept."
+  company_url = "https://www.sjsu.edu/linguistics/"
+  date_start = "2021-07-21"
+  date_end = ""
+
+[[experience]]
   title = "Graduate Assistant"
   company = "Stony Brook Center for Neural Circuit Dynamics"
   company_url = "https://www.stonybrook.edu/cncd/"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2021-01-01"
 
 [[experience]]
   title = "Research Fellow"
   company = "Institute for Advanced Computational Science"
   company_url = "https://iacs.stonybrook.edu/"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2021-06-01"
 
   [[experience]]
     title = "Research Assistant"
     company = "Stony Brook Computational Linguistics Lab"
     company_url = "http://compling.stonybrook.edu/"
     date_start = "2018-06-01"
-    date_end = ""
+    date_end = "2021-06-01"
 
     [[experience]]
       title = "Graduate Assistant"
