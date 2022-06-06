@@ -5,7 +5,7 @@ authors:
 - Jeffrey Heinz
 - admin
 
-date: "2020-03-26T00:00:00Z"
+date: "2022-03-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,8 +32,10 @@ tags:
 featured: true
 
 links:
-- name: Review Draft
+- name: Draft Preprint
   url: "BHR_2020_Abstractness.pdf"
+- name: Official Pub
+  url: "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198845003.001.0001/oxfordhb-9780198845003-e-14"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
