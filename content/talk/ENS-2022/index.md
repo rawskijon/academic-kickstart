@@ -1,11 +1,11 @@
 ---
-title: Generative Capacity and the Linguistic Swampland
+title: "Generative Capacity and the Linguistic Swampland"
 authors:
 - admin
-event: LINGUAE Seminar Lecture
+event: "LINGUAE Seminar Lecture"
 event_url: 
 
-location: Department d'Etudes Cognitives, Ecole Normale Superieure
+location: "Department d'Etudes Cognitives, Ecole Normale Superieure"
 address:
   street: ""
   city: ""
