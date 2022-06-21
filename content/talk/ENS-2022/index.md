@@ -1,11 +1,11 @@
 ---
-title: "Generative Capacity and the Linguistic Swampland"
+title: Generative Capacity and the Linguistic Swampland
 authors:
 - admin
-event: "LINGUAE Seminar Lecture"
+event: LINGUAE Seminar Lecture
 event_url: 
 
-location: "Department d'Etudes Cognitives, Ecole Normale Superieure"
+location: Department d'Etudes Cognitives, Ecole Normale Superieure
 address:
   street: ""
   city: ""
@@ -13,8 +13,8 @@ address:
   postcode: ''
   country: ""
 
-summary: "I discuss the \"swampland\", a vast landscape of consistent-looking linguistic theories whose generative capacity does not match independent constraints on the capacity of processes they cover themselves."
-abstract: "A central concern of linguistic theory is determining necessary and sufficient conditions on the generative capacity of the grammars/functions which account for linguistic phenomena. Prior work shows that while the landscape of possible functions is vast, the range of "things linguistic" is tightly constrained. In this talk I will review some recent mathematical work describing (1) conditions on the generative capacity of phenomena independent of a particular framework, using techniques from mathematical logic, and (2) classifying different linguistic theories with respect to these mathematical conditions. The key lesson is that many linguistic theories lie in what I call the "swampland", a vast area where the capacity of the theories does not obey these constraints, even if the theories are themselves internally consistent-looking."
+summary: I discuss the "swampland", a vast landscape of consistent-looking linguistic theories whose generative capacity does not match independent constraints on the capacity of processes they cover themselves.
+abstract: A central concern of linguistic theory is determining necessary and sufficient conditions on the generative capacity of the grammars/functions which account for linguistic phenomena. Prior work shows that while the landscape of possible functions is vast, the range of "things linguistic" is tightly constrained. In this talk I will review some recent mathematical work describing (1) conditions on the generative capacity of phenomena independent of a particular framework, using techniques from mathematical logic, and (2) classifying different linguistic theories with respect to these mathematical conditions. The key lesson is that many linguistic theories lie in what I call the "swampland", a vast area where the capacity of the theories does not obey these constraints, even if the theories are themselves internally consistent-looking.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
