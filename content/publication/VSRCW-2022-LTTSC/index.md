@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-- name: Arxiv
+- name: arXiv preprint
   url: "https://arxiv.org/abs/2208.08195"
 url_pdf: ''
 url_code: ''
