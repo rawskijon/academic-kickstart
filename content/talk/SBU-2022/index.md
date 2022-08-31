@@ -14,7 +14,7 @@ address:
   postcode: ''
   country: ""
 
-summary: "We discuss the place of phonology in the Swampland, a vast landscape of consistent-looking theories which are inconsistent with various theoretical constraints, and conjecture some separating conditions. "
+summary: "We discuss the place of phonology in the Swampland, a vast landscape of consistent-looking theories which are inconsistent with various theoretical constraints, and we pose some separating conditions. "
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
