@@ -6,7 +6,7 @@ authors:
 event: Stony Brook Workshop on Model-Theoretic Phonology
 event_url: https://www.jeffreyheinz.net/events/WMTRPprogram.html
 
-location: Stony Brook University
+location: Stony Brook Workshop on Model-Theoretic Phonology
 address:
   street: ""
   city: ""
@@ -14,8 +14,8 @@ address:
   postcode: ''
   country: ""
 
-summary: ""
-abstract: We discuss the "swampland", a vast landscape of consistent-looking linguistic theories who don't obey constraints on the functions they model, and contrast with a "landscape" of consistent and obedient theories. We posit a set of criteria separating the swamp from the landscape
+summary: "We discuss the place of phonology in the Swampland, a vast landscape of consistent-looking theories which are inconsistent with various theoretical constraints, and conjecture some separating conditions. "
+abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-09-23T14:00:00Z"
