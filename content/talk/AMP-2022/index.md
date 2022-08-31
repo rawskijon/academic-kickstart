@@ -19,7 +19,7 @@ abstract: A tutorial on a software package using our BUFIA Algorithm for abducti
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-10T14:00:00Z"
+date: "2022-10-21T14:00:00Z"
 #date_end: ""
 all_day: false
 
