@@ -1,5 +1,5 @@
 ---
-title: Generative Capacity and the Linguistic Swampland
+title: Cognitive Complexity and the Linguistic Swampland
 authors:
 - admin
 event: Linguistics Colloquium
@@ -14,7 +14,7 @@ address:
   country: ""
 
 summary: I discuss the "swampland", a vast landscape of consistent-looking linguistic theories who don't obey constraints on the generative capacity of the functions they model, and contrast with a "landscape" of consistent and obedient theories.
-abstract: A central concern of linguistic theory is determining necessary and sufficient conditions on the generative capacity of the grammars/functions which account for linguistic phenomena. Prior work shows that while the landscape of possible functions is vast, the range of "things linguistic" is tightly constrained. In this talk I will review some recent mathematical work describing (1) conditions on the generative capacity of phenomena independent of a particular framework, using techniques from mathematical logic, and (2) classifying different linguistic theories with respect to these mathematical conditions. The key lesson is that many linguistic theories lie in what I call the "swampland", a vast area where the capacity of the theories does not obey these constraints, even if the theories are themselves internally consistent-looking.
+abstract: A central concern of linguistic theory is determining necessary and sufficient conditions on the expressivity or "generative capacity" of the grammars/functions which account for linguistic phenomena. This is especially true for cognitive theories of linguistic capacities. Prior work shows that while the landscape of possible functions is vast, the range of “things linguistic” is tightly constrained by intersecting factors like learnability, descriptive power, and algorithmic efficiency. In this talk I will review some recent mathematical work describing (1) conditions on the generative capacity of linguistic phenomena independent of a particular framework, and (2) classifying different linguistic theories with respect to these mathematical conditions. The key lesson is that many linguistic theories lie in what I call the “swampland”, a vast area where the capacity of the theories does not obey these constraints, even if the theories are themselves internally consistent-looking. I present some conditions for telling whether a linguistic theory sits in the swampland or is well-behaved.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
