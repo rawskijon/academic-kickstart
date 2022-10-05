@@ -3,7 +3,7 @@ title: Cognitive Complexity and the Linguistic Swampland
 authors:
 - admin
 event: Linguistics Colloquium
-event_url: 
+event_url: https://linguistics.ucdavis.edu/events/jon-rawski-colloquium-cognitive-complexity-and-the-linguistic-swampland 
 
 location: UC Davis Linguistics Department
 address:
