@@ -30,11 +30,11 @@ subtitle = ""
     tag = "sign language"
 
   [[content.filter_button]]
-    name = "Computational Phonology"
+    name = "Phonology"
     tag = "computational phonology"
 
   [[content.filter_button]]
-      name = "Learning Algorithms"
+      name = "Learning"
       tag = "learning algorithms"
 
       [[content.filter_button]]
@@ -51,7 +51,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
