@@ -18,6 +18,9 @@ subtitle = ""
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
 
+  columns = "1"
+
+
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
