@@ -32,8 +32,8 @@ tags:
 featured: true
 
 links:
-- name: LingBuzz preprint
-  url: "https://lingbuzz.net/lingbuzz/006982"
+- name: Open-access publication
+  url: "https://www.glossa-journal.org/article/id/8885/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
