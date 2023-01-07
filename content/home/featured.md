@@ -5,7 +5,7 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Featured Publications"
@@ -42,6 +42,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 3
 
+  columns = "1"
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
