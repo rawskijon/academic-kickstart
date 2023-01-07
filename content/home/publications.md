@@ -17,7 +17,7 @@ subtitle = ""
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
 
-  columns = "1"
+  columns = 1
 
 
   # Choose how many pages you would like to offset by
