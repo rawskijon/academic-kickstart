@@ -34,8 +34,8 @@ tags:
 featured: true
 
 links:
-- name: arXiv preprint
-  url: "https://arxiv.org/abs/2208.08195"
+- name: open-access pub
+  url: "https://aclanthology.org/2022.coling-1.525/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
