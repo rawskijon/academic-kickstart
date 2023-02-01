@@ -1,12 +1,11 @@
 ---
-title: Phonology and the Linguistic Swampland
+title: Dagstuhl Seminar on Regular Transformations
 authors:
 - admin
-- Lucie Baumont
-event: Stony Brook Workshop on Model-Theoretic Phonology
-event_url: https://www.jeffreyheinz.net/events/WMTRPprogram.html
+event: Dagstuhl Seminar on Regular Transformations
+event_url:  https://www.dagstuhl.de/23202 
 
-location: Stony Brook Workshop on Model-Theoretic Phonology
+location: Schloss Dagstuhl – Leibniz Center for Informatics
 address:
   street: ""
   city: ""
@@ -14,13 +13,13 @@ address:
   postcode: ''
   country: ""
 
-summary: "We discuss the place of phonology in the Swampland, a vast landscape of consistent-looking theories which are inconsistent with various theoretical constraints, and we pose some separating conditions. "
+summary: ""
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-23T14:00:00Z"
-#date_end: ""
-all_day: false
+date: "2023-05-14T14:00:00Z"
+date_end: "2023-05-14T14:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -39,7 +38,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#url: https://sites.google.com/view/wtph
+#   url: https://sites.google.com/view/wtph
 url_code: ""
 url_pdf: ""
 url_slides: ""
