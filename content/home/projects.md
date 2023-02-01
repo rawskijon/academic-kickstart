@@ -85,5 +85,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-See [full list of publications]({{< ref "/publication/_index.md" >}}).
+See [full list of publications]({{< ref "/publication/_index.md" >}}). I try to make all of my work available for free and Green open-access online, on this website and/or on a centralized, well-archived repository. If you are a researcher, you can check if your own work meets this criteria via the [Dissemin project]({{< ref "https://dissem.in/" >}}) 
 {{% /alert %}}
