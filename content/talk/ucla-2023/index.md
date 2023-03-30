@@ -5,7 +5,7 @@ authors:
 event: Computational Psycholinguistics Seminar
 event_url:  
 
-location: UCLA
+location: UCLA Computational Psycholinguistics Seminar
 address:
   street: ""
   city: ""

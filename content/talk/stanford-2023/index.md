@@ -2,10 +2,10 @@
 title: Abductive Inference of Phonotactic Constraints 
 authors:
 - admin
-event: Phonology-Phonetics Seminar
+event: P-Interest Seminar
 event_url:  
 
-location: UCLA
+location: Stanford Linguistics, P-Interest Seminar
 address:
   street: ""
   city: ""

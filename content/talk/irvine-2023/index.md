@@ -5,7 +5,7 @@ authors:
 event: Language Science Colloquium
 event_url:  https://www.langsci.uci.edu/newsevents/events/colloquium.php 
 
-location: UC irvine
+location: UC Irvine Language Science Colloquium
 address:
   street: ""
   city: ""
