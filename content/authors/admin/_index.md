@@ -19,12 +19,12 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher working at the interface of mathematics, linguistics, cognitive science, and algorithmic learning theory.
+bio: ""
 
 interests:
 - Computational/Mathematical Linguistics
 - Cognitive Science
-- Artificial Intelligence
+- Theoretical Computer Science
 
 education:
   courses:
