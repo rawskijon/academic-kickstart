@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-I teach courses on general and computational linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>. In 2023/2024, I am on leave from SJSU to visit and teach at <a href="https://linguistics.mit.edu/">MIT Linguistics</a>. My work generally examines mathematical principles of human language and learning. These cognitive feats emerge from humans' unique neuronal structure and computing power, meaning linguistic insights provide foundational principles for cognitive science and artificial intelligence. 
+I teach courses on general and computational linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>. In 2023/2024, I am on leave to visit and teach at <a href="https://linguistics.mit.edu/">MIT Linguistics</a>. My work generally examines mathematical principles of human language and learning. These cognitive feats emerge from humans' unique neuronal structure and computing power, meaning linguistic insights provide foundational principles for cognitive science and artificial intelligence. 
