@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: San Jose State University
+- name: ""
   url: ""
 
 
