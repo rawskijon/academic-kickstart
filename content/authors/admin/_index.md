@@ -22,16 +22,16 @@ organizations:
 bio: ""
 
 interests:
-- Computational/Mathematical Linguistics
+- Mathematical Linguistics
 - Cognitive Science
-- Theoretical Computer Science
+- <a href="https://www.sjsu.edu/linguistics/">Theoretical Computer Science</a>
 
 education:
   courses:
   - course: PhD in Linguistics
     institution: Stony Brook University
     year: 2021 
-  - course: MSci in Cognitive Science
+  - course: MS in Cognitive Science
     institution: Higher School of Economics
     year: 2016
   - course: BA in Linguistics
@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-I teach courses on general and computational linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>. In 2023/2024, I am on leave to visit and teach at <a href="https://linguistics.mit.edu/">MIT Linguistics</a>. I generally study the mathematics of human language and learning. My work places mathematical boundary conditions on the grammars underlying human language and how they can be learned. These properties reflect humans' unique neuronal structure and computational power, contributing foundational principles for the cognitive and computer sciences. 
+I teach courses on general and computational linguistics at <a href="https://www.sjsu.edu/linguistics/">San Jose State University</a>. During summers and winters I am in Paris, transiently at the <a href="https://cognition.ens.fr">Institut Jean Nicod/ENS DEC</a>. In 2023/2024, I am on leave to visit and teach at <a href="https://linguistics.mit.edu/">MIT Linguistics</a>. I generally study the mathematics of human language and learning. My work places mathematical boundary conditions or "no-go theorems" on the grammars underlying human language and how they can be learned. These properties reflect humans' unique neuronal structure and computational power, contributing foundational principles for the cognitive and computer sciences. 
