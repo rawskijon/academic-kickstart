@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   link_to_archive = true
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 6
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
