@@ -1,12 +1,11 @@
 ---
-title: "BUFIA: Phonotactic Learning with Non-statistical Abductive Inference" 
+title: Rethinking Poverty of the Stimulus 
 authors:
 - admin
-- Jeffrey Heinz
-event: Annual Meeting on Phonology
-event_url: 
+event: Computational Psycholinguistics Seminar
+event_url:  
 
-location: UCLA
+location: UCLA Computational Psycholinguistics Seminar
 address:
   street: ""
   city: ""
@@ -14,14 +13,13 @@ address:
   postcode: ''
   country: ""
 
-summary: A tutorial on a software package using our BUFIA Algorithm for abductive inference of linguistic constraints over user-defined representations
-abstract: A tutorial on a software package using our BUFIA Algorithm for abductive inference of linguistic constraints over user-defined representations
-
+summary: ""
+abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-21T14:00:00Z"
-#date_end: ""
-all_day: false
+date: "2023-05-04T14:00:00Z"
+date_end: "2023-05-04T14:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -40,8 +38,8 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#url: https://sites.google.com/view/wtph
-url_code: "https://github.com/heinz-jeffrey/bufia"
+#   url: https://sites.google.com/view/wtph
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
