@@ -1,11 +1,11 @@
 ---
-title: Rethinking Poverty of the Stimulus 
+title: Computational Psycholinguistics Seminar 
 authors:
 - admin
 event: Computational Psycholinguistics Seminar
 event_url:  
 
-location: UCLA Computational Psycholinguistics Seminar
+location: University of Buffalo 
 address:
   street: ""
   city: ""
@@ -17,8 +17,8 @@ summary: ""
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-05-04T14:00:00Z"
-date_end: "2023-05-04T14:00:00Z"
+date: "2023-10--18T14:00:00Z"
+date_end: "2023-10-18T14:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).

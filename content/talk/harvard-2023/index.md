@@ -1,11 +1,11 @@
 ---
-title: Abductive Inference of Phonotactic Constraints 
+title: Language and Cognition Seminar 
 authors:
 - admin
-event: P-Interest Seminar
+event: ""
 event_url:  
 
-location: Stanford Linguistics, P-Interest Seminar
+location: Harvard University
 address:
   street: ""
   city: ""
@@ -17,8 +17,8 @@ summary: ""
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-04-21T12:00:00Z"
-date_end: "2023-04-21T1:30:00Z"
+date: "2023-09-26T12:00:00Z"
+date_end: "2023-09-26T1:30:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
