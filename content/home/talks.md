@@ -70,6 +70,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 <a href="https://www.jrawski.info/files/cv.pdf">See my CV</a> for a full list of all my talks.
-{{% /alert %}}
+{{% /callout %}}
