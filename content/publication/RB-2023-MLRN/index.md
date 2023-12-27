@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: manuscript
 publication_short: manuscript
 
-abstract: A rejection of the scientific contribution of language models as theory.  
+abstract: A rejection of the scientific contribution of language models for linguistic theory.  
 
 # Summary. An optional shortened abstract.
 summary: A short response rejecting the scientific contribution of language models as theories.
